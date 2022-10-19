@@ -1,0 +1,8 @@
+C:\Users\maric\OneDrive\Documentos\Puebauno\Examen1LuisPérezSánchez\Examen1LuisPérezSánchez\obj\Debug\Examen1LuisPérezSánchez.csproj.AssemblyReference.cache
+C:\Users\maric\OneDrive\Documentos\Puebauno\Examen1LuisPérezSánchez\Examen1LuisPérezSánchez\obj\Debug\Examen1LuisPérezSánchez.csproj.SuggestedBindingRedirects.cache
+C:\Users\maric\OneDrive\Documentos\Puebauno\Examen1LuisPérezSánchez\Examen1LuisPérezSánchez\obj\Debug\Examen1LuisPérezSánchez.csproj.CoreCompileInputs.cache
+C:\Users\maric\OneDrive\Documentos\Puebauno\Examen1LuisPérezSánchez\Examen1LuisPérezSánchez\bin\Debug\Examen1LuisPérezSánchez.exe.config
+C:\Users\maric\OneDrive\Documentos\Puebauno\Examen1LuisPérezSánchez\Examen1LuisPérezSánchez\bin\Debug\Examen1LuisPérezSánchez.exe
+C:\Users\maric\OneDrive\Documentos\Puebauno\Examen1LuisPérezSánchez\Examen1LuisPérezSánchez\bin\Debug\Examen1LuisPérezSánchez.pdb
+C:\Users\maric\OneDrive\Documentos\Puebauno\Examen1LuisPérezSánchez\Examen1LuisPérezSánchez\obj\Debug\Examen1LuisPérezSánchez.exe
+C:\Users\maric\OneDrive\Documentos\Puebauno\Examen1LuisPérezSánchez\Examen1LuisPérezSánchez\obj\Debug\Examen1LuisPérezSánchez.pdb
